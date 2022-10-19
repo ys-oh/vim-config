@@ -19,6 +19,6 @@ curl -sL https://raw.githubusercontent.com/ys-oh/vim-config/main/install.sh | su
 # in bash
 $ vim
 
-# ctrl + ':' to vim command mode type PlugInstall
+# typing 'PlugInstall' command with ctrl + ':'
 :PlugInstall
 ```
